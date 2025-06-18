@@ -44,17 +44,7 @@ O site **Ensino XXI** é um portal informativo que apresenta conteúdos sobre ed
 
 ### Ligação para o Site do Grupo no Netlify
 O site está disponível no seguinte endereço:  
-👉 [https://inf24tig07.netlify.app](https://inf24tig07.netlify.app)
-
-### Instruções de Instalação e Configuração
-1. **Instalação Local**:
-   - Faça o download do repositório no GitHub.
-   - Abra o arquivo `index.html` em qualquer navegador.
-
-2. **Configuração no Netlify**:
-   - Conecte o repositório no Netlify.
-   - Configure a publicação automática selecionando a branch principal.
-   - O site ficará disponível no formato `https://infYYtigXX.netlify.app`.
+👉 [https://inf24tig14.netlify.app](https://inf24tig14.netlify.app/)
 
 ### Regras de Utilização
 - O site é público e não requer autenticação.
