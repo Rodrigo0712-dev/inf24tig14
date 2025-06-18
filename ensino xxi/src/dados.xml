@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competencias xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dados.xsd">
+  <competencia>
+    <nome>Literacia Digital</nome>
+    <descricao>Capacidade de usar tecnologias digitais de forma crítica.</descricao>
+  </competencia>
+  <competencia>
+    <nome>Comunicação Digital</nome>
+    <descricao>Trocar informação de forma eficaz através de meios digitais.</descricao>
+  </competencia>
+</competencias>
