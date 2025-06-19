@@ -18,7 +18,7 @@ O site aborda tópicos como metodologias ativas, ferramentas digitais para a edu
 
 ### Estudo Inicial: Sketch ou Wireframes
 - **Wireframe do Site**:  
-  ![Wireframe](src/img/wireframe.png)
+  ![Wireframe](https://wireframe.cc/WX1ubX)
   O wireframe inicial foi desenvolvido para planejar a estrutura do site, garantindo uma navegação intuitiva e uma disposição lógica dos conteúdos.
 
 ### Sitemap
@@ -82,14 +82,29 @@ A apresentação do projeto foi feita em formato de slideshow, destacando os pri
 ## Screenshots
 
 ### Página Inicial
-![Página Inicial](src/img/![image](https://github.com/user-attachments/assets/4aab6b6c-5e3f-4139-8bde-bec4f6448223)
+![Página Inicial]![image](https://github.com/user-attachments/assets/4aab6b6c-5e3f-4139-8bde-bec4f6448223)
+
+
+
+### Página de Importancia
+![Página de Importancia![image](https://github.com/user-attachments/assets/2f01bed0-59b0-4249-a759-b0dae748705e)
+
+
+
+### Página de Ferramentas
+![Página de Ferramentas]![image](https://github.com/user-attachments/assets/77929713-09d0-4f5e-9920-af7c1d2cd498)
+
+
+### Página de Recursos
+![Página de Recursos]![image](https://github.com/user-attachments/assets/d2221922-da86-4c95-89fe-b026808365a1)
+
 
 
 ### Página de Cursos
-![Página de Cursos](src/img/alunos-tablet.jpg)
+![Página de Cursos]![image](https://github.com/user-attachments/assets/20e92fa0-18fc-4ce2-97da-c616b7ce141f)
 
-### Página de Ferramentas
-![Página de Ferramentas](src/img/videoconferencia.jpg)
+
+
 
 ---
 
