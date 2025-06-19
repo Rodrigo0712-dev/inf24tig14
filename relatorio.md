@@ -70,7 +70,7 @@ O site está disponível no seguinte endereço:
 
 A apresentação do projeto foi feita em formato de slideshow, destacando os principais aspectos do desenvolvimento e os resultados obtidos.
 
-- **Slides no Google Drive:** [Apresentação - Ensino XXI](https://docs.google.com/presentation/d/xxxxxxxxxx)
+- **Slides no Google Drive:** [Apresentação - Ensino XXI](https://prezi.com/view/rJ5Wgl7700u2om8akJ1P/)
 
 ---
 
