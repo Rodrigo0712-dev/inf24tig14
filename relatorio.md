@@ -18,7 +18,7 @@ O site aborda tópicos como metodologias ativas, ferramentas digitais para a edu
 
 ### Estudo Inicial: Sketch ou Wireframes
 - **Wireframe do Site**:  
-  ![Wireframe](https://wireframe.cc/WX1ubX)
+ [https://wireframe.cc/WX1ubX](https://wireframe.cc/WX1ubX)
   O wireframe inicial foi desenvolvido para planejar a estrutura do site, garantindo uma navegação intuitiva e uma disposição lógica dos conteúdos.
 
 ### Sitemap
