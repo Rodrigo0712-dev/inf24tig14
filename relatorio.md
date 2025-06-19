@@ -105,4 +105,4 @@ A apresentação do projeto foi feita em formato de slideshow, destacando os pri
 
 ## Conclusão
 
-O projeto **Ensino XXI** foi uma oportunidade de aplicar conhecimentos teóricos e práticos na construção de um produto digital significativo. Além de atender a todos os requisitos mínimos, o grupo explorou elementos adicionais para enriquecer a experiência do usuário. O trabalho em grupo permitiu um aprendizado colaborativo, promovendo a aquisição de novas competências técnicas e organizacionais.
+O projeto **Ensino XXI** foi uma oportunidade de aplicar conhecimentos teóricos e práticos na construção de um produto digital significativo. O grupo explorou elementos adicionais para enriquecer a experiência do usuário. O trabalho em grupo permitiu um aprendizado colaborativo, promovendo a aquisição de novas competências técnicas e organizacionais.
