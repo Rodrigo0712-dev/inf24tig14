@@ -82,26 +82,26 @@ A apresentação do projeto foi feita em formato de slideshow, destacando os pri
 ## Screenshots
 
 ### Página Inicial
-![Página Inicial]![image](https://github.com/user-attachments/assets/4aab6b6c-5e3f-4139-8bde-bec4f6448223)
+![image](https://github.com/user-attachments/assets/4aab6b6c-5e3f-4139-8bde-bec4f6448223)
 
 
 
 ### Página de Importancia
-![Página de Importancia![image](https://github.com/user-attachments/assets/2f01bed0-59b0-4249-a759-b0dae748705e)
+![image](https://github.com/user-attachments/assets/2f01bed0-59b0-4249-a759-b0dae748705e)
 
 
 
 ### Página de Ferramentas
-![Página de Ferramentas]![image](https://github.com/user-attachments/assets/77929713-09d0-4f5e-9920-af7c1d2cd498)
+![image](https://github.com/user-attachments/assets/77929713-09d0-4f5e-9920-af7c1d2cd498)
 
 
 ### Página de Recursos
-![Página de Recursos]![image](https://github.com/user-attachments/assets/d2221922-da86-4c95-89fe-b026808365a1)
+![image](https://github.com/user-attachments/assets/d2221922-da86-4c95-89fe-b026808365a1)
 
 
 
 ### Página de Cursos
-![Página de Cursos]![image](https://github.com/user-attachments/assets/20e92fa0-18fc-4ce2-97da-c616b7ce141f)
+![image](https://github.com/user-attachments/assets/20e92fa0-18fc-4ce2-97da-c616b7ce141f)
 
 
 
