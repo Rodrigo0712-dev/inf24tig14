@@ -1,6 +1,6 @@
 # Ensino XXI – Relatório
 
-## Project Presentation – Apresentação do Projeto
+## Apresentação do Projeto
 
 O projeto **Ensino XXI** tem como tema principal **"Educação no século XXI – Inovação, Tecnologia e Educação"**, com foco em como as novas tecnologias estão transformando o processo de ensino-aprendizagem. O objetivo do projeto é explorar ferramentas, metodologias e tendências que moldam a educação contemporânea, promovendo uma experiência de aprendizagem mais dinâmica, inclusiva e interativa.
 
@@ -14,7 +14,7 @@ O site aborda tópicos como metodologias ativas, ferramentas digitais para a edu
 
 ---
 
-## User Interface – Interface com o Utilizador
+## Interface com o Utilizador
 
 ### Estudo Inicial: Sketch ou Wireframes
 - **Wireframe do Site**:  
@@ -37,7 +37,7 @@ O site final apresenta um design responsivo e moderno. A navegação é clara e 
 
 ---
 
-## Product – Produto
+## Produto
 
 ### Descrição do Produto
 O site **Ensino XXI** é um portal informativo que apresenta conteúdos sobre educação inovadora e digital. Está estruturado em cinco páginas principais e inclui elementos interativos e dinâmicos para enriquecer a experiência do usuário.
@@ -54,10 +54,6 @@ O site está disponível no seguinte endereço:
 - Os menus de navegação estão organizados horizontalmente no topo de cada página.
 - Tooltips foram adicionados para facilitar a identificação dos links.
 
-### Validações de Formulários
-- Os formulários utilizam atributos do HTML5, como `required`, para validações básicas.
-- Exemplos: Campos de email e nome não podem ser enviados se estiverem vazios.
-
 ### Validação do HTML e CSS
 - **Validação HTML:** Testado com o [W3C HTML Validator](https://validator.w3.org/). Todos os arquivos foram aprovados.
 - **Validação CSS:** Testado com o [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Correções foram feitas para atender aos padrões.
@@ -70,12 +66,11 @@ O site está disponível no seguinte endereço:
 
 ---
 
-## Presentation – Apresentação
+## Apresentação
 
 A apresentação do projeto foi feita em formato de slideshow, destacando os principais aspectos do desenvolvimento e os resultados obtidos.
 
 - **Slides no Google Drive:** [Apresentação - Ensino XXI](https://docs.google.com/presentation/d/xxxxxxxxxx)
-- **Vídeo no YouTube:** [Apresentação do Projeto Ensino XXI](https://www.youtube.com/watch?v=xxxxxxxxxx)
 
 ---
 
