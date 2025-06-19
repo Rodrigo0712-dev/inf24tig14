@@ -82,7 +82,8 @@ A apresentação do projeto foi feita em formato de slideshow, destacando os pri
 ## Screenshots
 
 ### Página Inicial
-![Página Inicial](src/img/capa.jpg)
+![Página Inicial](src/img/![image](https://github.com/user-attachments/assets/4aab6b6c-5e3f-4139-8bde-bec4f6448223)
+
 
 ### Página de Cursos
 ![Página de Cursos](src/img/alunos-tablet.jpg)
