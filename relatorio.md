@@ -18,7 +18,7 @@ O site aborda tópicos como metodologias ativas, ferramentas digitais para a edu
 
 ### Estudo Inicial: Sketch ou Wireframes
 - **Wireframe do Site**:  
- [Wireframe](https://wireframe.cc/WX1ubX)
+👉 [Wireframe](https://wireframe.cc/WX1ubX)
   O wireframe inicial foi desenvolvido para planejar a estrutura do site, garantindo uma navegação intuitiva e uma disposição lógica dos conteúdos.
 
 ### Sitemap
@@ -44,7 +44,7 @@ O site **Ensino XXI** é um portal informativo que apresenta conteúdos sobre ed
 
 ### Ligação para o Site do Grupo no Netlify
 O site está disponível no seguinte endereço:  
-👉 [https://inf24tig14.netlify.app](https://inf24tig14.netlify.app/)
+👉 [Website - Ensino XXI](https://inf24tig14.netlify.app/)
 
 ### Regras de Utilização
 - O site é público e não requer autenticação.
@@ -70,7 +70,8 @@ O site está disponível no seguinte endereço:
 
 A apresentação do projeto foi feita em formato de slideshow, destacando os principais aspectos do desenvolvimento e os resultados obtidos.
 
-- **Apresentação:** [Apresentação - Ensino XXI](https://prezi.com/view/rJ5Wgl7700u2om8akJ1P/)
+- **Apresentação:**
+👉 [Apresentação - Ensino XXI](https://prezi.com/view/rJ5Wgl7700u2om8akJ1P/)
 
 ---
 
